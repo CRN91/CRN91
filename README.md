@@ -1,21 +1,34 @@
-## Adam Kaizra
+<div align="center">
+  
+# Hello! I'm Adam Kaizra 👋
+<a href="https://kaizra.dev"><img src="https://img.shields.io/badge/-Kaizra.dev-33cc33?style=plastic&logo=firefox&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akaizra/"><img src="https://img.shields.io/badge/-Adam%20Kaizra-0077B5?style=plastic&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:a.kaizra@outlook.com"><img src="https://img.shields.io/badge/-a.kaizra@outlook.com-D14836?style=plastic&logo=mailboxdotorg&logoColor=white"/></a>  
 
-MSci Computer Scientist at the University of Exeter with a particular interest in robotics and data analysis.
+**MSci Computer Scientist at the University of Exeter 🇬🇧**   
+**Specialising in robotics, machine learning and data analysis.**
+</div>
 
-### Reach me
+---
+### I work with this tech
 
-<a href="mailto:a.kaizra@outlook.com"><img src="email.png" height="50"></a> <a href="https://www.linkedin.com/in/akaizra/"><img src="linkedin.png" height="48"></a>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Godot](https://img.shields.io/badge/godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### What I'm currently developing in
+### I'm currently working on:
 
-My third year dissertation used Python, Networkx, Pandas and Matplotlib to source, generate, analyse and compare the international trade network and the global alliance network.
+- Chess playing robot ♟️
+- Swarm robotics outreach project 🤖
+- Cellular Network Simulation 📡
 
-For my fourth year I am working on multiple robotics projects and studying modules including computer vision, simulation and machine learning.
+### Legend
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+The badges in my project READMEs indicate if it was an individual or collaborative project and if applicable the relevant university module: 
 
-### Experience
-
-I have a broad understanding of many aspects of computer science, both software and hardware related from my degree.
-
-I have used a multitude of languages including Python, C, Java, Haskell, JavaScript, GDScript and implemented various web technologies including React, Django, Flask and LAMP stack.
+<img src="Year1.svg" height="24"> <img src="Year2.svg" height="24"> <img src="Year3.svg" height="24"> <img src="Year4.svg" height="24"> <img src="Personal.svg" height="24">  
+<img src="Group.svg" height="24"> <img src="Solo.svg" height="24">
